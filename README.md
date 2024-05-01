@@ -25,7 +25,7 @@ Thank you for visiting, and I look forward to engaging with you further
 Here are some of the technologies and tools that I work with:
 
 - HTML, CSS, JavaScript, Typescript
-- TailwindCSS, Boostrap 
+- TailwindCSS, Bootstrap 
 - React, NodeJS, Firebase
 - Git, GitHub, wordpress
 <!--
