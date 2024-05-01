@@ -11,6 +11,9 @@ Thank you for visiting, and I look forward to engaging with you further
 
 #### About Me
 
+## My GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codify01&show_icons=true&theme=radical)
 
 ## Technologies
 
