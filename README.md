@@ -8,6 +8,8 @@ I am Oluwaseun Uthman, a dedicated software developer with a robust background s
 I extend a warm welcome to my GitHub profile, where you'll find a showcase of my work and contributions. With a focus on quality, efficiency, and continuous learning, I strive to deliver solutions that exceed expectations and drive positive outcomes.
 
 Thank you for visiting, and I look forward to engaging with you further
+
+#### About Me
 <!--
 **codify01/codify01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
