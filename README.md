@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-Greetings,
 
 I am Oluwaseun Uthman, a dedicated software developer with a robust background spanning over a year in the field. My expertise lies predominantly in web technologies, where I have cultivated a keen interest and proficiency. Within this dynamic landscape, I take pride in crafting diverse and innovative applications that cater to various needs and challenges.
 
