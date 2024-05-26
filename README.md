@@ -20,6 +20,8 @@ Thank you for visiting, and I look forward to engaging with you further
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codify01&show_icons=true&theme=dark)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codify01&layout=compact&theme=dark)](https://git.io/streak-stats)
+
 ## Average time I spend coding
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codify01&layout=compact&theme=dark)](https://github.com/codify01/github-readme-stats)
