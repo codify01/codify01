@@ -20,6 +20,10 @@ Thank you for visiting, and I look forward to engaging with you further
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codify01&show_icons=true&theme=dark)
 
+## Average time I spend coding
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codify01&layout=compact&theme=dark)](https://github.com/codify01/github-readme-stats)
+
 ## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codify01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
