@@ -20,6 +20,10 @@ Thank you for visiting, and I look forward to engaging with you further
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codify01&show_icons=true&theme=dark)
 
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codify01&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies
 
 Here are some of the technologies and tools that I work with:
