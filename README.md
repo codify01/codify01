@@ -35,6 +35,10 @@ Here are some of the technologies and tools that I work with:
 - TailwindCSS, Bootstrap 
 - React, NodeJS, Firebase
 - Git, GitHub, wordpress
+
+## Daily Dev Profile
+
+<a href="https://app.daily.dev/codify01"><img src="https://api.daily.dev/devcards/v2/wylOfeTOmfRMdgKDjOgRI.png?type=default&r=h5t" width="356" alt="Uthman Amole O.'s Dev Card"/></a>
 <!--
 **codify01/codify01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
