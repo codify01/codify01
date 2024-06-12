@@ -38,7 +38,7 @@ Here are some of the technologies and tools that I work with:
 
 ## Daily Dev Profile
 
-<a href="https://app.daily.dev/codify01"><img src="https://api.daily.dev/devcards/v2/wylOfeTOmfRMdgKDjOgRI.png?type=default&r=h5t" width="356" alt="codify01's Dev Card"/></a>
+<a href="https://app.daily.dev/codify01"><img src="https://api.daily.dev/devcards/v2/wylOfeTOmfRMdgKDjOgRI.png?type=default&r=h5t" width="652" alt="codify01's Dev Card"/></a>
 <!--
 **codify01/codify01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
