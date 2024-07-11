@@ -2,7 +2,7 @@
 
 
 
-I am **Oluwaseun Uthman**, a dedicated software developer with a robust background spanning over a year in the field. My expertise lies predominantly in web technologies, where I have cultivated a keen interest and proficiency. Within this dynamic landscape, I take pride in crafting diverse and innovative applications that cater to various needs and challenges.
+I am **Oluwaseun Uthman**, a dedicated software developer with a robust background spanning about two years in the field. My expertise lies predominantly in web technologies, where I have cultivated a keen interest and proficiency. Within this dynamic landscape, I take pride in crafting diverse and innovative applications that cater to various needs and challenges.
 
 I extend a warm welcome to my GitHub profile, where you'll find a showcase of my work and contributions. With a focus on quality, efficiency, and continuous learning, I strive to deliver solutions that exceed expectations and drive positive outcomes.
 
